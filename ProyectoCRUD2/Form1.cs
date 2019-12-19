@@ -31,7 +31,7 @@ namespace ProyectoCRUD2
             {
                 genero = "M";
             }
-            estudiante.Genero = genero;
+            estudiante.Genero =genero;
 
             try
             {
